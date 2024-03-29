@@ -15,8 +15,6 @@ Dependencies
 Flask: A micro web framework for Python
 scikit-learn: A machine learning library for Python
 librosa: A Python package for audio and music signal analysis      
-output image:                           ![Uploading babyshouting_output.jpg…]()
-
 
 
 Twilio: A cloud communications platform for building SMS and voice applications
