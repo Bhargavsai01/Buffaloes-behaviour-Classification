@@ -1,10 +1,13 @@
-Overview
+Overview:
+
 Buffalo Behaviour Classification is a project aimed at classifying different behaviors exhibited by buffaloes using machine learning techniques. This project focuses on analyzing audio recordings of buffalo sounds and predicting their behaviors in real-time.
 
-Motivation
+Motivation:
+
 Understanding buffalo behavior is crucial for various applications, including agriculture, veterinary science, and wildlife conservation. By accurately classifying buffalo behaviors, farmers and researchers can monitor their health, well-being, and environmental interactions more effectively.
 
-Features
+Features:
+
 Real-time prediction of buffalo behavior based on audio recordings
 Integration with Twilio for sending SMS alerts with behavior predictions
 Use of machine learning models for classification tasks
@@ -12,7 +15,7 @@ Dependencies
 Flask: A micro web framework for Python
 scikit-learn: A machine learning library for Python
 librosa: A Python package for audio and music signal analysis      
-![babyshouting_output](https://github.com/Bhargavsai01/Buffaloes-behaviour-Classification/assets/139145511/585484cd-9177-49ab-afd6-3d648198d138)
+output image:                           ![babyshouting_output](https://github.com/Bhargavsai01/Buffaloes-behaviour-Classification/assets/139145511/585484cd-9177-49ab-afd6-3d648198d138)
 Twilio: A cloud communications platform for building SMS and voice applications
 Usage
 Setup Environment: Install the required dependencies using pip install -r requirements.txt.
